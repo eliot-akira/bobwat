@@ -8,7 +8,7 @@ import {
   NumberNode,
   BooleanNode,
 } from './bobwat'
-import wat2Wasm from './wat2wasm.js'
+import wat2Wasm from './wat2wasm'
 
 const compiler = new WasmCompiler()
 
